@@ -27,7 +27,7 @@ Feel free to explore the codebase, make modifications, and create pull requests 
 
 ## Feedback and Issues
 
-If you encounter any issues while using Gimme Phi or have suggestions for improvements, please [create an issue](https://github.com/javascript-jones/gimme_phi) in the GitHub repository. Your feedback is greatly appreciated!
+If you encounter any issues while using Gimme Phi or have suggestions for improvements, please [create an issue](https://github.com/javascript-jones/gimme_phi/issues) in the GitHub repository. Your feedback is greatly appreciated!
 
 ## License
 
