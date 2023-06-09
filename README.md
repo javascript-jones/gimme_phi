@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Gimme Phi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Gimme Phi is a simple web application built with Create React App that allows you to calculate proportional values based on the Golden Ratio. You can access the deployed version of the app [here](https://www.gimmephi.com/), which is hosted on Netlify.
 
-## Available Scripts
+## How to Use the App
 
-In the project directory, you can run:
+1. Visit [Gimme Phi](https://www.gimmephi.com/) in your web browser.
+2. You will see two input boxes labeled "Left" and "Right."
+3. To calculate the proportional value for a number, enter a value in either the "Left" or "Right" box.
+4. If you enter a number in the "Left" box, the "Right" box will update with its smaller proportional value according to the Golden Ratio.
+5. If you enter a number in the "Right" box, the "Left" box will update with its larger proportional value according to the Golden Ratio.
 
-### `yarn start`
+That's it! You can experiment with different numbers and observe their proportional values based on the Golden Ratio.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Development
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+If you want to run Gimme Phi locally or contribute to its development, follow the steps below:
 
-### `yarn test`
+1. Clone this GitHub repository to your local machine.
+2. Make sure you have [Node.js](https://nodejs.org/) installed.
+3. Open a terminal or command prompt and navigate to the project's directory.
+4. Install the dependencies by running the command: `npm install`.
+5. Start the development server with the command: `npm start`.
+6. The app will be running locally at `http://localhost:3000`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Feel free to explore the codebase, make modifications, and create pull requests if you have any improvements or new features to add.
 
-### `yarn build`
+## Feedback and Issues
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you encounter any issues while using Gimme Phi or have suggestions for improvements, please [create an issue](https://github.com/your-username/gimme-phi/issues) in the GitHub repository. Your feedback is greatly appreciated!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/gimme-phi/blob/main/LICENSE) file for more information.
